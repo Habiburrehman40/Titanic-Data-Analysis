@@ -1,0 +1,12 @@
+
+---
+
+## 📦 **requirements.txt**
+
+```txt
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+streamlit
